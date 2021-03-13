@@ -1,0 +1,11 @@
+[
+  {
+    "model": "blog.Post",
+    "pk": 1,
+    "fields": {
+      "title": "New post",
+      "author": 1,
+      "body": "This is text of new post"
+    }
+  }
+]
